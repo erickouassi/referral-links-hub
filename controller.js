@@ -1,5 +1,4 @@
 //const data = require("./data");
-const dataTime = require("./db_txt_time");
 const dataDailyTxt = require("./db_txt_daily");
 const dataDayTxt = require("./db_txt_day");
 const dataWeeklyTxt = require("./db_txt_weekly");
