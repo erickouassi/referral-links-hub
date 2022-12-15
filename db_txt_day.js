@@ -1,12 +1,12 @@
 const dataTxtDayApi = [
   {
     "id": "1",
-    "created_on": "12/11/2022",
+    "created_on": "12/15/2022",
     "category": "day",
     "frequency": "Monday",
     "reference": "Referral program",
-    "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "company": "Sendwave",
+    "HTML_code": "You should try Sendwave! Use my code AFZ0N to get a $10.00 credit towards your first transfer.<br>\r\nDownload at <a href=\"https://try.sendwave.com/kjap/en\"  target=\"_blank\">https://try.sendwave.com/kjap/en</a>"
   },
   {
     "id": "2",
@@ -19,12 +19,12 @@ const dataTxtDayApi = [
   },
   {
     "id": "3",
-    "created_on": "12/11/2022",
+    "created_on": "12/15/2022",
     "category": "day",
     "frequency": "Wednesday",
     "reference": "Referral program",
-    "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "company": "Discover",
+    "HTML_code": "Become a <a href=\"https://refer.discover.com/s/SOLANGE17\"  target=\"_blank\">Discover Cardmember</a> and get a $50 Statement Credit when you make your first purchase within three months. \r\nThen, earn rewards with every purchase after that."
   },
   {
     "id": "4",

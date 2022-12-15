@@ -214,6 +214,15 @@ const dataTxtRandomApi = [
     "reference": "Referral program",
     "company": "Discover",
     "HTML_code": "Become a <a href=\"https://refer.discover.com/s/SOLANGE17\"  target=\"_blank\">Discover Cardmember</a> and get a $50 Statement Credit when you make your first purchase within three months. \r\nThen, earn rewards with every purchase after that."
+  },
+  {
+    "id": "25",
+    "created_on": "12/15/2022",
+    "category": "random",
+    "frequency": "25",
+    "reference": "Referral program",
+    "company": "Sendwave",
+    "HTML_code": "You should try Sendwave! Use my code AFZ0N to get a $10.00 credit towards your first transfer.<br>\r\nDownload at <a href=\"https://try.sendwave.com/kjap/en\"  target=\"_blank\">https://try.sendwave.com/kjap/en</a>"
   }
 ]
 module.exports = dataTxtRandomApi;
