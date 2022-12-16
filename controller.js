@@ -1,4 +1,5 @@
 //const data = require("./data");
+//const dataTime = require("./db_txt_time");
 const dataDailyTxt = require("./db_txt_daily");
 const dataDayTxt = require("./db_txt_day");
 const dataWeeklyTxt = require("./db_txt_weekly");
@@ -83,10 +84,6 @@ class Controller {
         let todayDataTxt = dataDailyTxt.filter(function(todayIn) {
       return todayIn.frequency == today; });
      //console.log(todayDataTxt);
-  //
-  /*let b=JSON.stringify(todayDataTxt);
- let str = b.replace(/\\/g, '');
-  console.log(str); */
   //
         if (todayDataTxt) {
           // return the data
