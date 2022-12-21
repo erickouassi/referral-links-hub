@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "ads360-api-v1",
+    "name": "referral-api",
     "builds": [
        { "src": "index.js", "use": "@vercel/node" }
     ],
