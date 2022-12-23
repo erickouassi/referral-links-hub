@@ -10,7 +10,8 @@ const dataTxtDailyApi = [
     "frequency": "1/1",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@ const dataTxtDailyApi = [
     "frequency": "1/2",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "3",
@@ -28,7 +30,8 @@ const dataTxtDailyApi = [
     "frequency": "1/3",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "4",
@@ -37,7 +40,8 @@ const dataTxtDailyApi = [
     "frequency": "1/4",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "5",
@@ -46,7 +50,8 @@ const dataTxtDailyApi = [
     "frequency": "1/5",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "6",
@@ -55,7 +60,8 @@ const dataTxtDailyApi = [
     "frequency": "1/6",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "7",
@@ -64,7 +70,8 @@ const dataTxtDailyApi = [
     "frequency": "1/7",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "8",
@@ -73,7 +80,8 @@ const dataTxtDailyApi = [
     "frequency": "1/8",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "9",
@@ -82,7 +90,8 @@ const dataTxtDailyApi = [
     "frequency": "1/9",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "10",
@@ -91,7 +100,8 @@ const dataTxtDailyApi = [
     "frequency": "1/10",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "11",
@@ -100,7 +110,8 @@ const dataTxtDailyApi = [
     "frequency": "1/11",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "12",
@@ -109,7 +120,8 @@ const dataTxtDailyApi = [
     "frequency": "1/12",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "13",
@@ -118,7 +130,8 @@ const dataTxtDailyApi = [
     "frequency": "1/13",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "14",
@@ -127,7 +140,8 @@ const dataTxtDailyApi = [
     "frequency": "1/14",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "15",
@@ -136,7 +150,8 @@ const dataTxtDailyApi = [
     "frequency": "1/15",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "16",
@@ -145,7 +160,8 @@ const dataTxtDailyApi = [
     "frequency": "1/16",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "17",
@@ -154,7 +170,8 @@ const dataTxtDailyApi = [
     "frequency": "1/17",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "18",
@@ -163,7 +180,8 @@ const dataTxtDailyApi = [
     "frequency": "1/18",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "19",
@@ -172,7 +190,8 @@ const dataTxtDailyApi = [
     "frequency": "1/19",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "20",
@@ -181,7 +200,8 @@ const dataTxtDailyApi = [
     "frequency": "1/20",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "21",
@@ -190,7 +210,8 @@ const dataTxtDailyApi = [
     "frequency": "1/21",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "22",
@@ -199,7 +220,8 @@ const dataTxtDailyApi = [
     "frequency": "1/22",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "23",
@@ -208,7 +230,8 @@ const dataTxtDailyApi = [
     "frequency": "1/23",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "24",
@@ -217,7 +240,8 @@ const dataTxtDailyApi = [
     "frequency": "1/24",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "25",
@@ -226,7 +250,8 @@ const dataTxtDailyApi = [
     "frequency": "1/25",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "26",
@@ -235,7 +260,8 @@ const dataTxtDailyApi = [
     "frequency": "1/26",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "27",
@@ -244,7 +270,8 @@ const dataTxtDailyApi = [
     "frequency": "1/27",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "28",
@@ -253,7 +280,8 @@ const dataTxtDailyApi = [
     "frequency": "1/28",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "29",
@@ -262,7 +290,8 @@ const dataTxtDailyApi = [
     "frequency": "1/29",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "30",
@@ -271,7 +300,8 @@ const dataTxtDailyApi = [
     "frequency": "1/30",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "31",
@@ -280,7 +310,8 @@ const dataTxtDailyApi = [
     "frequency": "1/31",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "32",
@@ -289,7 +320,8 @@ const dataTxtDailyApi = [
     "frequency": "2/1",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "33",
@@ -298,7 +330,8 @@ const dataTxtDailyApi = [
     "frequency": "2/2",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "34",
@@ -307,7 +340,8 @@ const dataTxtDailyApi = [
     "frequency": "2/3",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "35",
@@ -316,7 +350,8 @@ const dataTxtDailyApi = [
     "frequency": "2/4",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "36",
@@ -325,7 +360,8 @@ const dataTxtDailyApi = [
     "frequency": "2/5",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "37",
@@ -334,7 +370,8 @@ const dataTxtDailyApi = [
     "frequency": "2/6",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "38",
@@ -343,7 +380,8 @@ const dataTxtDailyApi = [
     "frequency": "2/7",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "39",
@@ -352,7 +390,8 @@ const dataTxtDailyApi = [
     "frequency": "2/8",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "40",
@@ -361,7 +400,8 @@ const dataTxtDailyApi = [
     "frequency": "2/9",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "41",
@@ -370,7 +410,8 @@ const dataTxtDailyApi = [
     "frequency": "2/10",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "42",
@@ -379,7 +420,8 @@ const dataTxtDailyApi = [
     "frequency": "2/11",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "43",
@@ -388,7 +430,8 @@ const dataTxtDailyApi = [
     "frequency": "2/12",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "44",
@@ -397,7 +440,8 @@ const dataTxtDailyApi = [
     "frequency": "2/13",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "45",
@@ -406,7 +450,8 @@ const dataTxtDailyApi = [
     "frequency": "2/14",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "46",
@@ -415,7 +460,8 @@ const dataTxtDailyApi = [
     "frequency": "2/15",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "47",
@@ -424,7 +470,8 @@ const dataTxtDailyApi = [
     "frequency": "2/16",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "48",
@@ -433,7 +480,8 @@ const dataTxtDailyApi = [
     "frequency": "2/17",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "49",
@@ -442,7 +490,8 @@ const dataTxtDailyApi = [
     "frequency": "2/18",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "50",
@@ -451,7 +500,8 @@ const dataTxtDailyApi = [
     "frequency": "2/19",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "51",
@@ -460,7 +510,8 @@ const dataTxtDailyApi = [
     "frequency": "2/20",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "52",
@@ -469,7 +520,8 @@ const dataTxtDailyApi = [
     "frequency": "2/21",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "53",
@@ -478,7 +530,8 @@ const dataTxtDailyApi = [
     "frequency": "2/22",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "54",
@@ -487,7 +540,8 @@ const dataTxtDailyApi = [
     "frequency": "2/23",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "55",
@@ -496,7 +550,8 @@ const dataTxtDailyApi = [
     "frequency": "2/24",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "56",
@@ -505,7 +560,8 @@ const dataTxtDailyApi = [
     "frequency": "2/25",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "57",
@@ -514,7 +570,8 @@ const dataTxtDailyApi = [
     "frequency": "2/26",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "58",
@@ -523,7 +580,8 @@ const dataTxtDailyApi = [
     "frequency": "2/27",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "59",
@@ -532,7 +590,8 @@ const dataTxtDailyApi = [
     "frequency": "2/28",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "60",
@@ -541,7 +600,8 @@ const dataTxtDailyApi = [
     "frequency": "3/1",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "61",
@@ -550,7 +610,8 @@ const dataTxtDailyApi = [
     "frequency": "3/2",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "62",
@@ -559,7 +620,8 @@ const dataTxtDailyApi = [
     "frequency": "3/3",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "63",
@@ -568,7 +630,8 @@ const dataTxtDailyApi = [
     "frequency": "3/4",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "64",
@@ -577,7 +640,8 @@ const dataTxtDailyApi = [
     "frequency": "3/5",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "65",
@@ -586,7 +650,8 @@ const dataTxtDailyApi = [
     "frequency": "3/6",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "66",
@@ -595,7 +660,8 @@ const dataTxtDailyApi = [
     "frequency": "3/7",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "67",
@@ -604,7 +670,8 @@ const dataTxtDailyApi = [
     "frequency": "3/8",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "68",
@@ -613,7 +680,8 @@ const dataTxtDailyApi = [
     "frequency": "3/9",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "69",
@@ -622,7 +690,8 @@ const dataTxtDailyApi = [
     "frequency": "3/10",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "70",
@@ -631,7 +700,8 @@ const dataTxtDailyApi = [
     "frequency": "3/11",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "71",
@@ -640,7 +710,8 @@ const dataTxtDailyApi = [
     "frequency": "3/12",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "72",
@@ -649,7 +720,8 @@ const dataTxtDailyApi = [
     "frequency": "3/13",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "73",
@@ -658,7 +730,8 @@ const dataTxtDailyApi = [
     "frequency": "3/14",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "74",
@@ -667,7 +740,8 @@ const dataTxtDailyApi = [
     "frequency": "3/15",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "75",
@@ -676,7 +750,8 @@ const dataTxtDailyApi = [
     "frequency": "3/16",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "76",
@@ -685,7 +760,8 @@ const dataTxtDailyApi = [
     "frequency": "3/17",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "77",
@@ -694,7 +770,8 @@ const dataTxtDailyApi = [
     "frequency": "3/18",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "78",
@@ -703,7 +780,8 @@ const dataTxtDailyApi = [
     "frequency": "3/19",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "79",
@@ -712,7 +790,8 @@ const dataTxtDailyApi = [
     "frequency": "3/20",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "80",
@@ -721,7 +800,8 @@ const dataTxtDailyApi = [
     "frequency": "3/21",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "81",
@@ -730,7 +810,8 @@ const dataTxtDailyApi = [
     "frequency": "3/22",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "82",
@@ -739,7 +820,8 @@ const dataTxtDailyApi = [
     "frequency": "3/23",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "83",
@@ -748,7 +830,8 @@ const dataTxtDailyApi = [
     "frequency": "3/24",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "84",
@@ -757,7 +840,8 @@ const dataTxtDailyApi = [
     "frequency": "3/25",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "85",
@@ -766,7 +850,8 @@ const dataTxtDailyApi = [
     "frequency": "3/26",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "86",
@@ -775,7 +860,8 @@ const dataTxtDailyApi = [
     "frequency": "3/27",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "87",
@@ -784,7 +870,8 @@ const dataTxtDailyApi = [
     "frequency": "3/28",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "88",
@@ -793,7 +880,8 @@ const dataTxtDailyApi = [
     "frequency": "3/29",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "89",
@@ -802,7 +890,8 @@ const dataTxtDailyApi = [
     "frequency": "3/30",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "90",
@@ -811,7 +900,8 @@ const dataTxtDailyApi = [
     "frequency": "3/31",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "91",
@@ -820,7 +910,8 @@ const dataTxtDailyApi = [
     "frequency": "4/1",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "92",
@@ -829,7 +920,8 @@ const dataTxtDailyApi = [
     "frequency": "4/2",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "93",
@@ -838,7 +930,8 @@ const dataTxtDailyApi = [
     "frequency": "4/3",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "94",
@@ -847,7 +940,8 @@ const dataTxtDailyApi = [
     "frequency": "4/4",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "95",
@@ -856,7 +950,8 @@ const dataTxtDailyApi = [
     "frequency": "4/5",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "96",
@@ -865,7 +960,8 @@ const dataTxtDailyApi = [
     "frequency": "4/6",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "97",
@@ -874,7 +970,8 @@ const dataTxtDailyApi = [
     "frequency": "4/7",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "98",
@@ -883,7 +980,8 @@ const dataTxtDailyApi = [
     "frequency": "4/8",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "99",
@@ -892,7 +990,8 @@ const dataTxtDailyApi = [
     "frequency": "4/9",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "100",
@@ -901,7 +1000,8 @@ const dataTxtDailyApi = [
     "frequency": "4/10",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "101",
@@ -910,7 +1010,8 @@ const dataTxtDailyApi = [
     "frequency": "4/11",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "102",
@@ -919,7 +1020,8 @@ const dataTxtDailyApi = [
     "frequency": "4/12",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "103",
@@ -928,7 +1030,8 @@ const dataTxtDailyApi = [
     "frequency": "4/13",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "104",
@@ -937,7 +1040,8 @@ const dataTxtDailyApi = [
     "frequency": "4/14",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "105",
@@ -946,7 +1050,8 @@ const dataTxtDailyApi = [
     "frequency": "4/15",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "106",
@@ -955,7 +1060,8 @@ const dataTxtDailyApi = [
     "frequency": "4/16",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "107",
@@ -964,7 +1070,8 @@ const dataTxtDailyApi = [
     "frequency": "4/17",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "108",
@@ -973,7 +1080,8 @@ const dataTxtDailyApi = [
     "frequency": "4/18",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "109",
@@ -982,7 +1090,8 @@ const dataTxtDailyApi = [
     "frequency": "4/19",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "110",
@@ -991,7 +1100,8 @@ const dataTxtDailyApi = [
     "frequency": "4/20",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "111",
@@ -1000,7 +1110,8 @@ const dataTxtDailyApi = [
     "frequency": "4/21",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "112",
@@ -1009,7 +1120,8 @@ const dataTxtDailyApi = [
     "frequency": "4/22",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "113",
@@ -1018,7 +1130,8 @@ const dataTxtDailyApi = [
     "frequency": "4/23",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "114",
@@ -1027,7 +1140,8 @@ const dataTxtDailyApi = [
     "frequency": "4/24",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "115",
@@ -1036,7 +1150,8 @@ const dataTxtDailyApi = [
     "frequency": "4/25",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "116",
@@ -1045,7 +1160,8 @@ const dataTxtDailyApi = [
     "frequency": "4/26",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "117",
@@ -1054,7 +1170,8 @@ const dataTxtDailyApi = [
     "frequency": "4/27",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "118",
@@ -1063,7 +1180,8 @@ const dataTxtDailyApi = [
     "frequency": "4/28",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "119",
@@ -1072,7 +1190,8 @@ const dataTxtDailyApi = [
     "frequency": "4/29",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "120",
@@ -1081,7 +1200,8 @@ const dataTxtDailyApi = [
     "frequency": "4/30",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "121",
@@ -1090,7 +1210,8 @@ const dataTxtDailyApi = [
     "frequency": "5/1",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "122",
@@ -1099,7 +1220,8 @@ const dataTxtDailyApi = [
     "frequency": "5/2",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "123",
@@ -1108,7 +1230,8 @@ const dataTxtDailyApi = [
     "frequency": "5/3",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "124",
@@ -1117,7 +1240,8 @@ const dataTxtDailyApi = [
     "frequency": "5/4",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "125",
@@ -1126,7 +1250,8 @@ const dataTxtDailyApi = [
     "frequency": "5/5",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "126",
@@ -1135,7 +1260,8 @@ const dataTxtDailyApi = [
     "frequency": "5/6",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "127",
@@ -1144,7 +1270,8 @@ const dataTxtDailyApi = [
     "frequency": "5/7",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "128",
@@ -1153,7 +1280,8 @@ const dataTxtDailyApi = [
     "frequency": "5/8",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "129",
@@ -1162,7 +1290,8 @@ const dataTxtDailyApi = [
     "frequency": "5/9",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "130",
@@ -1171,7 +1300,8 @@ const dataTxtDailyApi = [
     "frequency": "5/10",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "131",
@@ -1180,7 +1310,8 @@ const dataTxtDailyApi = [
     "frequency": "5/11",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "132",
@@ -1189,7 +1320,8 @@ const dataTxtDailyApi = [
     "frequency": "5/12",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "133",
@@ -1198,7 +1330,8 @@ const dataTxtDailyApi = [
     "frequency": "5/13",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "134",
@@ -1207,7 +1340,8 @@ const dataTxtDailyApi = [
     "frequency": "5/14",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "135",
@@ -1216,7 +1350,8 @@ const dataTxtDailyApi = [
     "frequency": "5/15",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "136",
@@ -1225,7 +1360,8 @@ const dataTxtDailyApi = [
     "frequency": "5/16",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "137",
@@ -1234,7 +1370,8 @@ const dataTxtDailyApi = [
     "frequency": "5/17",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "138",
@@ -1243,7 +1380,8 @@ const dataTxtDailyApi = [
     "frequency": "5/18",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "139",
@@ -1252,7 +1390,8 @@ const dataTxtDailyApi = [
     "frequency": "5/19",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "140",
@@ -1261,7 +1400,8 @@ const dataTxtDailyApi = [
     "frequency": "5/20",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "141",
@@ -1270,7 +1410,8 @@ const dataTxtDailyApi = [
     "frequency": "5/21",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "142",
@@ -1279,7 +1420,8 @@ const dataTxtDailyApi = [
     "frequency": "5/22",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "143",
@@ -1288,7 +1430,8 @@ const dataTxtDailyApi = [
     "frequency": "5/23",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "144",
@@ -1297,7 +1440,8 @@ const dataTxtDailyApi = [
     "frequency": "5/24",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "145",
@@ -1306,7 +1450,8 @@ const dataTxtDailyApi = [
     "frequency": "5/25",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "146",
@@ -1315,7 +1460,8 @@ const dataTxtDailyApi = [
     "frequency": "5/26",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "147",
@@ -1324,7 +1470,8 @@ const dataTxtDailyApi = [
     "frequency": "5/27",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "148",
@@ -1333,7 +1480,8 @@ const dataTxtDailyApi = [
     "frequency": "5/28",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "149",
@@ -1342,7 +1490,8 @@ const dataTxtDailyApi = [
     "frequency": "5/29",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "150",
@@ -1351,7 +1500,8 @@ const dataTxtDailyApi = [
     "frequency": "5/30",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "151",
@@ -1360,7 +1510,8 @@ const dataTxtDailyApi = [
     "frequency": "5/31",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "152",
@@ -1369,7 +1520,8 @@ const dataTxtDailyApi = [
     "frequency": "6/1",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "153",
@@ -1378,7 +1530,8 @@ const dataTxtDailyApi = [
     "frequency": "6/2",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "154",
@@ -1387,7 +1540,8 @@ const dataTxtDailyApi = [
     "frequency": "6/3",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "155",
@@ -1396,7 +1550,8 @@ const dataTxtDailyApi = [
     "frequency": "6/4",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "156",
@@ -1405,7 +1560,8 @@ const dataTxtDailyApi = [
     "frequency": "6/5",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "157",
@@ -1414,7 +1570,8 @@ const dataTxtDailyApi = [
     "frequency": "6/6",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "158",
@@ -1423,7 +1580,8 @@ const dataTxtDailyApi = [
     "frequency": "6/7",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "159",
@@ -1432,7 +1590,8 @@ const dataTxtDailyApi = [
     "frequency": "6/8",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "160",
@@ -1441,7 +1600,8 @@ const dataTxtDailyApi = [
     "frequency": "6/9",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "161",
@@ -1450,7 +1610,8 @@ const dataTxtDailyApi = [
     "frequency": "6/10",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "162",
@@ -1459,7 +1620,8 @@ const dataTxtDailyApi = [
     "frequency": "6/11",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "163",
@@ -1468,7 +1630,8 @@ const dataTxtDailyApi = [
     "frequency": "6/12",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "164",
@@ -1477,7 +1640,8 @@ const dataTxtDailyApi = [
     "frequency": "6/13",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "165",
@@ -1486,7 +1650,8 @@ const dataTxtDailyApi = [
     "frequency": "6/14",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "166",
@@ -1495,7 +1660,8 @@ const dataTxtDailyApi = [
     "frequency": "6/15",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "167",
@@ -1504,7 +1670,8 @@ const dataTxtDailyApi = [
     "frequency": "6/16",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "168",
@@ -1513,7 +1680,8 @@ const dataTxtDailyApi = [
     "frequency": "6/17",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "169",
@@ -1522,7 +1690,8 @@ const dataTxtDailyApi = [
     "frequency": "6/18",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "170",
@@ -1531,7 +1700,8 @@ const dataTxtDailyApi = [
     "frequency": "6/19",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "171",
@@ -1540,7 +1710,8 @@ const dataTxtDailyApi = [
     "frequency": "6/20",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "172",
@@ -1549,7 +1720,8 @@ const dataTxtDailyApi = [
     "frequency": "6/21",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "173",
@@ -1558,7 +1730,8 @@ const dataTxtDailyApi = [
     "frequency": "6/22",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "174",
@@ -1567,7 +1740,8 @@ const dataTxtDailyApi = [
     "frequency": "6/23",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "175",
@@ -1576,7 +1750,8 @@ const dataTxtDailyApi = [
     "frequency": "6/24",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "176",
@@ -1585,7 +1760,8 @@ const dataTxtDailyApi = [
     "frequency": "6/25",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "177",
@@ -1594,7 +1770,8 @@ const dataTxtDailyApi = [
     "frequency": "6/26",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "178",
@@ -1603,7 +1780,8 @@ const dataTxtDailyApi = [
     "frequency": "6/27",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "179",
@@ -1612,7 +1790,8 @@ const dataTxtDailyApi = [
     "frequency": "6/28",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "180",
@@ -1621,7 +1800,8 @@ const dataTxtDailyApi = [
     "frequency": "6/29",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "181",
@@ -1630,7 +1810,8 @@ const dataTxtDailyApi = [
     "frequency": "6/30",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "182",
@@ -1639,7 +1820,8 @@ const dataTxtDailyApi = [
     "frequency": "7/1",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "183",
@@ -1648,7 +1830,8 @@ const dataTxtDailyApi = [
     "frequency": "7/2",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "184",
@@ -1657,7 +1840,8 @@ const dataTxtDailyApi = [
     "frequency": "7/3",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "185",
@@ -1666,7 +1850,8 @@ const dataTxtDailyApi = [
     "frequency": "7/4",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "186",
@@ -1675,7 +1860,8 @@ const dataTxtDailyApi = [
     "frequency": "7/5",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "187",
@@ -1684,7 +1870,8 @@ const dataTxtDailyApi = [
     "frequency": "7/6",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "188",
@@ -1693,7 +1880,8 @@ const dataTxtDailyApi = [
     "frequency": "7/7",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "189",
@@ -1702,7 +1890,8 @@ const dataTxtDailyApi = [
     "frequency": "7/8",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "190",
@@ -1711,7 +1900,8 @@ const dataTxtDailyApi = [
     "frequency": "7/9",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "191",
@@ -1720,7 +1910,8 @@ const dataTxtDailyApi = [
     "frequency": "7/10",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "192",
@@ -1729,7 +1920,8 @@ const dataTxtDailyApi = [
     "frequency": "7/11",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "193",
@@ -1738,7 +1930,8 @@ const dataTxtDailyApi = [
     "frequency": "7/12",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "194",
@@ -1747,7 +1940,8 @@ const dataTxtDailyApi = [
     "frequency": "7/13",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "195",
@@ -1756,7 +1950,8 @@ const dataTxtDailyApi = [
     "frequency": "7/14",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "196",
@@ -1765,7 +1960,8 @@ const dataTxtDailyApi = [
     "frequency": "7/15",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "197",
@@ -1774,7 +1970,8 @@ const dataTxtDailyApi = [
     "frequency": "7/16",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "198",
@@ -1783,7 +1980,8 @@ const dataTxtDailyApi = [
     "frequency": "7/17",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "199",
@@ -1792,7 +1990,8 @@ const dataTxtDailyApi = [
     "frequency": "7/18",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "200",
@@ -1801,7 +2000,8 @@ const dataTxtDailyApi = [
     "frequency": "7/19",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "201",
@@ -1810,7 +2010,8 @@ const dataTxtDailyApi = [
     "frequency": "7/20",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "202",
@@ -1819,7 +2020,8 @@ const dataTxtDailyApi = [
     "frequency": "7/21",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "203",
@@ -1828,7 +2030,8 @@ const dataTxtDailyApi = [
     "frequency": "7/22",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "204",
@@ -1837,7 +2040,8 @@ const dataTxtDailyApi = [
     "frequency": "7/23",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "205",
@@ -1846,7 +2050,8 @@ const dataTxtDailyApi = [
     "frequency": "7/24",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "206",
@@ -1855,7 +2060,8 @@ const dataTxtDailyApi = [
     "frequency": "7/25",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "207",
@@ -1864,7 +2070,8 @@ const dataTxtDailyApi = [
     "frequency": "7/26",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "208",
@@ -1873,7 +2080,8 @@ const dataTxtDailyApi = [
     "frequency": "7/27",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "209",
@@ -1882,7 +2090,8 @@ const dataTxtDailyApi = [
     "frequency": "7/28",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "210",
@@ -1891,7 +2100,8 @@ const dataTxtDailyApi = [
     "frequency": "7/29",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "211",
@@ -1900,7 +2110,8 @@ const dataTxtDailyApi = [
     "frequency": "7/30",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "212",
@@ -1909,7 +2120,8 @@ const dataTxtDailyApi = [
     "frequency": "7/31",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "213",
@@ -1918,7 +2130,8 @@ const dataTxtDailyApi = [
     "frequency": "8/1",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "214",
@@ -1927,7 +2140,8 @@ const dataTxtDailyApi = [
     "frequency": "8/2",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "215",
@@ -1936,7 +2150,8 @@ const dataTxtDailyApi = [
     "frequency": "8/3",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "216",
@@ -1945,7 +2160,8 @@ const dataTxtDailyApi = [
     "frequency": "8/4",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "217",
@@ -1954,7 +2170,8 @@ const dataTxtDailyApi = [
     "frequency": "8/5",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "218",
@@ -1963,7 +2180,8 @@ const dataTxtDailyApi = [
     "frequency": "8/6",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "219",
@@ -1972,7 +2190,8 @@ const dataTxtDailyApi = [
     "frequency": "8/7",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "220",
@@ -1981,7 +2200,8 @@ const dataTxtDailyApi = [
     "frequency": "8/8",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "221",
@@ -1990,7 +2210,8 @@ const dataTxtDailyApi = [
     "frequency": "8/9",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "222",
@@ -1999,7 +2220,8 @@ const dataTxtDailyApi = [
     "frequency": "8/10",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "223",
@@ -2008,7 +2230,8 @@ const dataTxtDailyApi = [
     "frequency": "8/11",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "224",
@@ -2017,7 +2240,8 @@ const dataTxtDailyApi = [
     "frequency": "8/12",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "225",
@@ -2026,7 +2250,8 @@ const dataTxtDailyApi = [
     "frequency": "8/13",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "226",
@@ -2035,7 +2260,8 @@ const dataTxtDailyApi = [
     "frequency": "8/14",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "227",
@@ -2044,7 +2270,8 @@ const dataTxtDailyApi = [
     "frequency": "8/15",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "228",
@@ -2053,7 +2280,8 @@ const dataTxtDailyApi = [
     "frequency": "8/16",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "229",
@@ -2062,7 +2290,8 @@ const dataTxtDailyApi = [
     "frequency": "8/17",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "230",
@@ -2071,7 +2300,8 @@ const dataTxtDailyApi = [
     "frequency": "8/18",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "231",
@@ -2080,7 +2310,8 @@ const dataTxtDailyApi = [
     "frequency": "8/19",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "232",
@@ -2089,7 +2320,8 @@ const dataTxtDailyApi = [
     "frequency": "8/20",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "233",
@@ -2098,7 +2330,8 @@ const dataTxtDailyApi = [
     "frequency": "8/21",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "234",
@@ -2107,7 +2340,8 @@ const dataTxtDailyApi = [
     "frequency": "8/22",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "235",
@@ -2116,7 +2350,8 @@ const dataTxtDailyApi = [
     "frequency": "8/23",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "236",
@@ -2125,7 +2360,8 @@ const dataTxtDailyApi = [
     "frequency": "8/24",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "237",
@@ -2134,7 +2370,8 @@ const dataTxtDailyApi = [
     "frequency": "8/25",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "238",
@@ -2143,7 +2380,8 @@ const dataTxtDailyApi = [
     "frequency": "8/26",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "239",
@@ -2152,7 +2390,8 @@ const dataTxtDailyApi = [
     "frequency": "8/27",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "240",
@@ -2161,7 +2400,8 @@ const dataTxtDailyApi = [
     "frequency": "8/28",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "241",
@@ -2170,7 +2410,8 @@ const dataTxtDailyApi = [
     "frequency": "8/29",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "242",
@@ -2179,7 +2420,8 @@ const dataTxtDailyApi = [
     "frequency": "8/30",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "243",
@@ -2188,7 +2430,8 @@ const dataTxtDailyApi = [
     "frequency": "8/31",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "244",
@@ -2197,7 +2440,8 @@ const dataTxtDailyApi = [
     "frequency": "9/1",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "245",
@@ -2206,7 +2450,8 @@ const dataTxtDailyApi = [
     "frequency": "9/2",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "246",
@@ -2215,7 +2460,8 @@ const dataTxtDailyApi = [
     "frequency": "9/3",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "247",
@@ -2224,7 +2470,8 @@ const dataTxtDailyApi = [
     "frequency": "9/4",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "248",
@@ -2233,7 +2480,8 @@ const dataTxtDailyApi = [
     "frequency": "9/5",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "249",
@@ -2242,7 +2490,8 @@ const dataTxtDailyApi = [
     "frequency": "9/6",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "250",
@@ -2251,7 +2500,8 @@ const dataTxtDailyApi = [
     "frequency": "9/7",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "251",
@@ -2260,7 +2510,8 @@ const dataTxtDailyApi = [
     "frequency": "9/8",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "252",
@@ -2269,7 +2520,8 @@ const dataTxtDailyApi = [
     "frequency": "9/9",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "253",
@@ -2278,7 +2530,8 @@ const dataTxtDailyApi = [
     "frequency": "9/10",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "254",
@@ -2287,7 +2540,8 @@ const dataTxtDailyApi = [
     "frequency": "9/11",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "255",
@@ -2296,7 +2550,8 @@ const dataTxtDailyApi = [
     "frequency": "9/12",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "256",
@@ -2305,7 +2560,8 @@ const dataTxtDailyApi = [
     "frequency": "9/13",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "257",
@@ -2314,7 +2570,8 @@ const dataTxtDailyApi = [
     "frequency": "9/14",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "258",
@@ -2323,7 +2580,8 @@ const dataTxtDailyApi = [
     "frequency": "9/15",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "259",
@@ -2332,7 +2590,8 @@ const dataTxtDailyApi = [
     "frequency": "9/16",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "260",
@@ -2341,7 +2600,8 @@ const dataTxtDailyApi = [
     "frequency": "9/17",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "261",
@@ -2350,7 +2610,8 @@ const dataTxtDailyApi = [
     "frequency": "9/18",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "262",
@@ -2359,7 +2620,8 @@ const dataTxtDailyApi = [
     "frequency": "9/19",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "263",
@@ -2368,7 +2630,8 @@ const dataTxtDailyApi = [
     "frequency": "9/20",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "264",
@@ -2377,7 +2640,8 @@ const dataTxtDailyApi = [
     "frequency": "9/21",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "265",
@@ -2386,7 +2650,8 @@ const dataTxtDailyApi = [
     "frequency": "9/22",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "266",
@@ -2395,7 +2660,8 @@ const dataTxtDailyApi = [
     "frequency": "9/23",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "267",
@@ -2404,7 +2670,8 @@ const dataTxtDailyApi = [
     "frequency": "9/24",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "268",
@@ -2413,7 +2680,8 @@ const dataTxtDailyApi = [
     "frequency": "9/25",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "269",
@@ -2422,7 +2690,8 @@ const dataTxtDailyApi = [
     "frequency": "9/26",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "270",
@@ -2431,7 +2700,8 @@ const dataTxtDailyApi = [
     "frequency": "9/27",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "271",
@@ -2440,7 +2710,8 @@ const dataTxtDailyApi = [
     "frequency": "9/28",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "272",
@@ -2449,7 +2720,8 @@ const dataTxtDailyApi = [
     "frequency": "9/29",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "273",
@@ -2458,7 +2730,8 @@ const dataTxtDailyApi = [
     "frequency": "9/30",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "274",
@@ -2467,7 +2740,8 @@ const dataTxtDailyApi = [
     "frequency": "10/1",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "275",
@@ -2476,7 +2750,8 @@ const dataTxtDailyApi = [
     "frequency": "10/2",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "276",
@@ -2485,7 +2760,8 @@ const dataTxtDailyApi = [
     "frequency": "10/3",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "277",
@@ -2494,7 +2770,8 @@ const dataTxtDailyApi = [
     "frequency": "10/4",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "278",
@@ -2503,7 +2780,8 @@ const dataTxtDailyApi = [
     "frequency": "10/5",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "279",
@@ -2512,7 +2790,8 @@ const dataTxtDailyApi = [
     "frequency": "10/6",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "280",
@@ -2521,7 +2800,8 @@ const dataTxtDailyApi = [
     "frequency": "10/7",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "281",
@@ -2530,7 +2810,8 @@ const dataTxtDailyApi = [
     "frequency": "10/8",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "282",
@@ -2539,7 +2820,8 @@ const dataTxtDailyApi = [
     "frequency": "10/9",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "283",
@@ -2548,7 +2830,8 @@ const dataTxtDailyApi = [
     "frequency": "10/10",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "284",
@@ -2557,7 +2840,8 @@ const dataTxtDailyApi = [
     "frequency": "10/11",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "285",
@@ -2566,7 +2850,8 @@ const dataTxtDailyApi = [
     "frequency": "10/12",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "286",
@@ -2575,7 +2860,8 @@ const dataTxtDailyApi = [
     "frequency": "10/13",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "287",
@@ -2584,7 +2870,8 @@ const dataTxtDailyApi = [
     "frequency": "10/14",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "288",
@@ -2593,7 +2880,8 @@ const dataTxtDailyApi = [
     "frequency": "10/15",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "289",
@@ -2602,7 +2890,8 @@ const dataTxtDailyApi = [
     "frequency": "10/16",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "290",
@@ -2611,7 +2900,8 @@ const dataTxtDailyApi = [
     "frequency": "10/17",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "291",
@@ -2620,7 +2910,8 @@ const dataTxtDailyApi = [
     "frequency": "10/18",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "292",
@@ -2629,7 +2920,8 @@ const dataTxtDailyApi = [
     "frequency": "10/19",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "293",
@@ -2638,7 +2930,8 @@ const dataTxtDailyApi = [
     "frequency": "10/20",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "294",
@@ -2647,7 +2940,8 @@ const dataTxtDailyApi = [
     "frequency": "10/21",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "295",
@@ -2656,7 +2950,8 @@ const dataTxtDailyApi = [
     "frequency": "10/22",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "296",
@@ -2665,7 +2960,8 @@ const dataTxtDailyApi = [
     "frequency": "10/23",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "297",
@@ -2674,7 +2970,8 @@ const dataTxtDailyApi = [
     "frequency": "10/24",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "298",
@@ -2683,7 +2980,8 @@ const dataTxtDailyApi = [
     "frequency": "10/25",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "299",
@@ -2692,7 +2990,8 @@ const dataTxtDailyApi = [
     "frequency": "10/26",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "300",
@@ -2701,7 +3000,8 @@ const dataTxtDailyApi = [
     "frequency": "10/27",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "301",
@@ -2710,7 +3010,8 @@ const dataTxtDailyApi = [
     "frequency": "10/28",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "302",
@@ -2719,7 +3020,8 @@ const dataTxtDailyApi = [
     "frequency": "10/29",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "303",
@@ -2728,7 +3030,8 @@ const dataTxtDailyApi = [
     "frequency": "10/30",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "304",
@@ -2737,7 +3040,8 @@ const dataTxtDailyApi = [
     "frequency": "10/31",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "305",
@@ -2746,7 +3050,8 @@ const dataTxtDailyApi = [
     "frequency": "11/1",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "306",
@@ -2755,7 +3060,8 @@ const dataTxtDailyApi = [
     "frequency": "11/2",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "307",
@@ -2764,7 +3070,8 @@ const dataTxtDailyApi = [
     "frequency": "11/3",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "308",
@@ -2773,7 +3080,8 @@ const dataTxtDailyApi = [
     "frequency": "11/4",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "309",
@@ -2782,7 +3090,8 @@ const dataTxtDailyApi = [
     "frequency": "11/5",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "310",
@@ -2791,7 +3100,8 @@ const dataTxtDailyApi = [
     "frequency": "11/6",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "311",
@@ -2800,7 +3110,8 @@ const dataTxtDailyApi = [
     "frequency": "11/7",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "312",
@@ -2809,7 +3120,8 @@ const dataTxtDailyApi = [
     "frequency": "11/8",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "313",
@@ -2818,7 +3130,8 @@ const dataTxtDailyApi = [
     "frequency": "11/9",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "314",
@@ -2827,7 +3140,8 @@ const dataTxtDailyApi = [
     "frequency": "11/10",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "315",
@@ -2836,7 +3150,8 @@ const dataTxtDailyApi = [
     "frequency": "11/11",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "316",
@@ -2845,7 +3160,8 @@ const dataTxtDailyApi = [
     "frequency": "11/12",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "317",
@@ -2854,7 +3170,8 @@ const dataTxtDailyApi = [
     "frequency": "11/13",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "318",
@@ -2863,7 +3180,8 @@ const dataTxtDailyApi = [
     "frequency": "11/14",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "319",
@@ -2872,7 +3190,8 @@ const dataTxtDailyApi = [
     "frequency": "11/15",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "320",
@@ -2881,7 +3200,8 @@ const dataTxtDailyApi = [
     "frequency": "11/16",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "321",
@@ -2890,7 +3210,8 @@ const dataTxtDailyApi = [
     "frequency": "11/17",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "322",
@@ -2899,7 +3220,8 @@ const dataTxtDailyApi = [
     "frequency": "11/18",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "323",
@@ -2908,7 +3230,8 @@ const dataTxtDailyApi = [
     "frequency": "11/19",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "324",
@@ -2917,7 +3240,8 @@ const dataTxtDailyApi = [
     "frequency": "11/20",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "325",
@@ -2926,7 +3250,8 @@ const dataTxtDailyApi = [
     "frequency": "11/21",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "326",
@@ -2935,7 +3260,8 @@ const dataTxtDailyApi = [
     "frequency": "11/22",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "327",
@@ -2944,7 +3270,8 @@ const dataTxtDailyApi = [
     "frequency": "11/23",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "328",
@@ -2953,7 +3280,8 @@ const dataTxtDailyApi = [
     "frequency": "11/24",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "329",
@@ -2962,7 +3290,8 @@ const dataTxtDailyApi = [
     "frequency": "11/25",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "330",
@@ -2971,7 +3300,8 @@ const dataTxtDailyApi = [
     "frequency": "11/26",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "331",
@@ -2980,7 +3310,8 @@ const dataTxtDailyApi = [
     "frequency": "11/27",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "332",
@@ -2989,7 +3320,8 @@ const dataTxtDailyApi = [
     "frequency": "11/28",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "333",
@@ -2998,7 +3330,8 @@ const dataTxtDailyApi = [
     "frequency": "11/29",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "334",
@@ -3007,7 +3340,8 @@ const dataTxtDailyApi = [
     "frequency": "11/30",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "335",
@@ -3016,7 +3350,8 @@ const dataTxtDailyApi = [
     "frequency": "12/1",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "336",
@@ -3025,7 +3360,8 @@ const dataTxtDailyApi = [
     "frequency": "12/2",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   },
   {
     "id": "337",
@@ -3034,7 +3370,8 @@ const dataTxtDailyApi = [
     "frequency": "12/3",
     "reference": "Referral program",
     "company": "ClearScreening",
-    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option."
+    "HTML_code": "<a href=\"https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack=\">Credit and Criminal Report</a> - Instant access. No signup or membership fees. FREE for LandLords with Renter Payment Option.",
+    "myURL": "https://shareasale.com/r.cfm?b=403184&u=1363513&m=40634&urllink=&afftrack="
   },
   {
     "id": "338",
@@ -3043,7 +3380,8 @@ const dataTxtDailyApi = [
     "frequency": "12/4",
     "reference": "Referral program",
     "company": "WP Engine",
-    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>"
+    "HTML_code": "Get 4 months free on all shared hosting plans with code, wpe4free. <a href=\"https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack=\">Buy now!</a>",
+    "myURL": "https://shareasale.com/r.cfm?b=917225&u=1363513&m=41388&urllink=&afftrack="
   },
   {
     "id": "339",
@@ -3052,7 +3390,8 @@ const dataTxtDailyApi = [
     "frequency": "12/5",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "340",
@@ -3061,7 +3400,8 @@ const dataTxtDailyApi = [
     "frequency": "12/6",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months."
+    "HTML_code": "Fiverr Business - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Business</a> – the workspace connecting teams with top-rated freelancers and unlimited business potential \r\n– and get $100 CPA once the account reaches $100 in spend + 10% rev share for 12 months.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "341",
@@ -3070,7 +3410,8 @@ const dataTxtDailyApi = [
     "frequency": "12/7",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!"
+    "HTML_code": "Fiverr Learn - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">professional online courses</a> and get 30% from every course sale, for an unlimited amount of courses!",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "342",
@@ -3079,7 +3420,8 @@ const dataTxtDailyApi = [
     "frequency": "12/8",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer."
+    "HTML_code": "Fiverr Hybrid (Revenue Share) - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a commission of $10 + 10% revenue share for 12 months for every new buyer.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "343",
@@ -3088,7 +3430,8 @@ const dataTxtDailyApi = [
     "frequency": "12/9",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases."
+    "HTML_code": "Fiverr CPA - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr.com</a> and get a one-time commission of $15-150 for every new buyer, depending on the service the buyer purchases.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "344",
@@ -3097,7 +3440,8 @@ const dataTxtDailyApi = [
     "frequency": "12/10",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "345",
@@ -3106,7 +3450,8 @@ const dataTxtDailyApi = [
     "frequency": "12/11",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "346",
@@ -3115,7 +3460,8 @@ const dataTxtDailyApi = [
     "frequency": "12/12",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "347",
@@ -3124,7 +3470,8 @@ const dataTxtDailyApi = [
     "frequency": "12/13",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "348",
@@ -3133,7 +3480,8 @@ const dataTxtDailyApi = [
     "frequency": "12/14",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "349",
@@ -3142,7 +3490,8 @@ const dataTxtDailyApi = [
     "frequency": "12/15",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!"
+    "HTML_code": "Get paid to eat and drink <br>\r\nNibble away at the cost of dining out with <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>. For every meal you enjoy, you'll earn cash back!",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "350",
@@ -3151,7 +3500,8 @@ const dataTxtDailyApi = [
     "frequency": "12/16",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary."
+    "HTML_code": "Fill your cart and your wallet. <br>\r\n<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a> is the easiest way to save on your entire grocery bill every time you shop. No coupons necessary.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "351",
@@ -3160,7 +3510,8 @@ const dataTxtDailyApi = [
     "frequency": "12/17",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price."
+    "HTML_code": "Save Money <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Unlimited washes</a> at a fraction of the pay-per-wash price.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "352",
@@ -3169,7 +3520,8 @@ const dataTxtDailyApi = [
     "frequency": "12/18",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like."
+    "HTML_code": "Unlimited Use <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\nWash your car as often as you want. <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">Wash every single day</a> if you'd like.",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "353",
@@ -3178,7 +3530,8 @@ const dataTxtDailyApi = [
     "frequency": "12/19",
     "reference": "Referral program",
     "company": "EverWash",
-    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price"
+    "HTML_code": "What is <a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a>? <br>\r\nInvitation Code: <mark>3x48mX</mark> <br>\r\n<a href=\"https://bit.ly/3KtPaNB\"  target=\"_blank\">EverWash</a> partners with your neighborhood's best car washes to bring you unlimited washes for one low monthly price",
+    "myURL": "https://bit.ly/3KtPaNB"
   },
   {
     "id": "354",
@@ -3187,7 +3540,8 @@ const dataTxtDailyApi = [
     "frequency": "12/20",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app"
+    "HTML_code": "<b>Borrow, invest,<br>\r\nsave, and more.<br></b>\r\nDo it all in the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "355",
@@ -3196,7 +3550,8 @@ const dataTxtDailyApi = [
     "frequency": "12/21",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score."
+    "HTML_code": "Hi! 👋 Join me on the <a href=\"https://bit.ly/36i2N3h\"  target=\"_blank\">SoFi</a> app! \nTrade stocks, check your credit score for free, and more all in one app. \nGet $10 (1,000 rewards points) when you sign up using my link—and get 1,000 more points when you check your credit score.",
+    "myURL": "https://bit.ly/36i2N3h"
   },
   {
     "id": "356",
@@ -3205,7 +3560,8 @@ const dataTxtDailyApi = [
     "frequency": "12/22",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!"
+    "HTML_code": "Hey! I'm using <a href=\"https://bit.ly/3JpKx77\"  target=\"_blank\">SoFi Invest</a> 📊 to buy and sell stocks (and pieces of stocks) with zero fees.\r\nOpen an Active Investing account with $100 or more, and you'll get $25 in stock. \r\nI'll get $50 in stock, too!",
+    "myURL": "https://bit.ly/3JpKx77"
   },
   {
     "id": "357",
@@ -3214,7 +3570,8 @@ const dataTxtDailyApi = [
     "frequency": "12/23",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out your loan options with <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3I7XG3c\"  target=\"_blank\">SoFi Personal Loan</a> (with $0 fees!) and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3I7XG3c"
   },
   {
     "id": "358",
@@ -3223,7 +3580,8 @@ const dataTxtDailyApi = [
     "frequency": "12/24",
     "reference": "Referral program",
     "company": "SoFi",
-    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus."
+    "HTML_code": "Hi! I thought you might want to check out saving on student loans with <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi</a>. \r\nLearn more and use my link to apply for a <a href=\"https://bit.ly/3w1smAH\"  target=\"_blank\">SoFi Student Loan Refinance</a> and you can get a $300 welcome bonus.",
+    "myURL": "https://bit.ly/3w1smAH"
   },
   {
     "id": "359",
@@ -3232,7 +3590,8 @@ const dataTxtDailyApi = [
     "frequency": "12/25",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>"
+    "HTML_code": "Discover more ways to send and receive money in the United States with <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a>",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "360",
@@ -3241,7 +3600,8 @@ const dataTxtDailyApi = [
     "frequency": "12/26",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way."
+    "HTML_code": "With so many options to transfer money internationally - through bank accounts, mobile wallets, at thousands of locations and online - <a href=\"https://bit.ly/3pwcAcM\" target=\"_blank\">MoneyGram</a> lets you find your way.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "361",
@@ -3250,7 +3610,8 @@ const dataTxtDailyApi = [
     "frequency": "12/27",
     "reference": "Referral program",
     "company": "MoneyGram",
-    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more."
+    "HTML_code": "With millions of downloads, the <a href=\"https://bit.ly/3pwcAcM\"  target=\"_blank\">MoneyGram</a> money transfer app is an easier way to send money from the United States, pay bills and more.",
+    "myURL": "https://bit.ly/3pwcAcM"
   },
   {
     "id": "362",
@@ -3259,7 +3620,8 @@ const dataTxtDailyApi = [
     "frequency": "12/28",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food"
+    "HTML_code": "<a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>: CASH BACK ON GAS & FOOD <br>\nSave money on gas and food",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "363",
@@ -3268,7 +3630,8 @@ const dataTxtDailyApi = [
     "frequency": "12/29",
     "reference": "Referral program",
     "company": "GetUpside",
-    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up."
+    "HTML_code": "Earn cash back on every fill-up <br>\r\nWhen you join <a href=\"https://bit.ly/36LB5fB\"  target=\"_blank\">Upside</a>, you'll save every time you fill up.",
+    "myURL": "https://bit.ly/36LB5fB"
   },
   {
     "id": "364",
@@ -3277,7 +3640,8 @@ const dataTxtDailyApi = [
     "frequency": "12/30",
     "reference": "Referral program",
     "company": "Fiverr Affiliates",
-    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions."
+    "HTML_code": "Refer an Affiliate - Promote <a href=\"https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates\"  target=\"_blank\">Fiverr Affiliates</a> to your audience and earn 10% of their monthly commissions.",
+    "myURL": "https://go.fiverr.com/visit/?bta=611081&brand=fiverraffiliates"
   },
   {
     "id": "365",
@@ -3286,7 +3650,8 @@ const dataTxtDailyApi = [
     "frequency": "12/31",
     "reference": "Referral program",
     "company": "ShareASale",
-    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!"
+    "HTML_code": "Let <a href=\"https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack=\">shareasale.com</a> find sales leads for you.  Only pay when it works!",
+    "myURL": "https://shareasale.com/r.cfm?b=45&u=1363513&m=47&urllink=&afftrack="
   }
 ]
 module.exports = dataTxtDailyApi;
